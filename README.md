@@ -1,16 +1,30 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FICUSXD%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**ICUSXD/ICUSXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello!!
 
-Here are some ideas to get you started:
+## Personal Information
+* Born: 2005.08.04
+* Language: Korean/English
+* Gender: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interasted In..
+* Developing Utility
+* Chatbot
+* VR
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ICUSXD&layout=compact&theme=dark)
+</br>
+![ICUS's github stats](https://github-readme-stats.vercel.app/api?username=ICUSXD&show_icons=true&theme=radical)
+</br></br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyicus1)](https://solved.ac/happyicus1/)
+
+## 💻 STACK
+### Languages
+![](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)
+
+### Tools
+![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=black])
+![](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=black])
+<br>
+![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=black])
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white])
