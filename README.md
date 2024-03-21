@@ -3,7 +3,7 @@
 ## Hello!!
 
 ## Personal Information
-* Born: 2005.08.04
+* Born: 2005.10.23
 * Language: Korean/English
 * Gender: he/him
 
