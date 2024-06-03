@@ -13,9 +13,9 @@
 * VR
 ---
 ### Github Status
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ICUSXD&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehredev&layout=compact&theme=dark)
 </br>
-![ICUS's github stats](https://github-readme-stats.vercel.app/api?username=ICUSXD&show_icons=true&theme=radical)
+![ICUS's github stats](https://github-readme-stats.vercel.app/api?username=ehredev&show_icons=true&theme=radical)
 </br>
 ### BOJ solved.ac Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyicus1)](https://solved.ac/happyicus1/)
