@@ -10,6 +10,8 @@
 ## Interasted In..
 * Developing Utility
 * Chatbot
+* Web
+* Hacking
 * VR
 ---
 ### Github Status
@@ -21,8 +23,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyicus1)](https://solved.ac/happyicus1/)
 
 ## Career
-2018~ Unitor Webpage Developer
-
+2018~ Unitor Web Developer
+2024~ KITPA 
 
 ## 💻 STACK
 ### Languages
