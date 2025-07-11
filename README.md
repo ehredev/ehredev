@@ -7,7 +7,7 @@
 * Language: Korean/English
 * Gender: he/him
 
-## Interasted In..
+## Interested In..
 * Developing Utility
 * Chatbot
 * Web
